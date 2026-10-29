@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Banana Bread",
+      "category": "Bakery",
+      "location": "SecondServe Kitchen, Quezon City",
+      "price": "₱45",
+      "available_servings": "6 servings",
+      "serving_size": "1 slice",
+      "image_url": "assets/bananaBread.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Butter Croissant",
+      "category": "Bakery",
+      "location": "Sunrise Bakery, Quezon City",
+      "price": "₱35",
+      "available_servings": "4 servings",
+      "serving_size": "1 piece",
+      "image_url": "assets/croissant.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fresh Veggie Wrap",
+      "category": "Prepared Meals",
+      "location": "Green Harvest Cafe, Makati",
+      "price": "₱85",
+      "available_servings": "8 servings",
+      "serving_size": "1 wrap",
+      "image_url": "https://jessicainthekitchen.com/wp-content/uploads/2026/05/Vegan-Veggie-Wrap-16.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Seasonal Fruit Bowl",
+      "category": "Fresh Produce",
+      "location": "SecondServe Fresh Bar, Manila",
+      "price": "₱65",
+      "available_servings": "5 servings",
+      "serving_size": "1 bowl",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpBrWbyWGzP62F1cBTqpTOJ9LHwgp3y1zqxiPhCOFZFICJzNT7bMD7B_U&s=10"
+    },
+    {
+      "id": 5,
+      "name": "Assorted Pastry Box",
+      "category": "Bakery",
+      "location": "Golden Crust Bakery, Pasig",
+      "price": "₱99",
+      "available_servings": "3 boxes",
+      "serving_size": "1 box (4 pcs)",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrj9S3lj6Z80oN5F7do_7XVVbiQ2fKjPCptOj_qie2-4Cwo736Jfe0aJU&s=10"
+    }
+  ]
+}
